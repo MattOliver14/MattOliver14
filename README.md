@@ -15,7 +15,7 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
      <img align="center" alt="Matt-android" height="30" width="40" 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />  
- <img align="center" alt="Matt-ios" height="30" width="40" #787878	
+ <img align="center" alt="Matt-ios" height="30" width="40" 	
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
    <img align="center" alt="Matt-angular" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
